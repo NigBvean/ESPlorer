@@ -1,4 +1,15 @@
-# ESPlorer
+# ESPlorer - Modified by NigBvean for nodeMCU use
+
+This version is a quick'n'dirty branch to display scrollbar on nodemcu SPIFFS file list.
+(in fact, scrollPane must be parent of nodemcuPanel)
+
+Moreover, gui was almost modified for better ratio between panels.
+
+This is really quick'n'dirty because gui code is dirty at base, 
+and need to be heavily reworked (layouts, panels organisation, ...).
+
+Sufficient work for me.
+
 
 [![Build Actions Status](https://github.com/4refr0nt/ESPlorer/workflows/build/badge.svg)](https://github.com/4refr0nt/ESPlorer/actions) [![Join the chat at https://gitter.im/4refr0nt/ESPlorer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/4refr0nt/ESPlorer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 #### Integrated Development Environment (IDE) for ESP8266 developers
