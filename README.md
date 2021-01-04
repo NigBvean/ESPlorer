@@ -8,7 +8,9 @@ Moreover, gui was almost modified for better ratio between panels.
 This is really quick'n'dirty because gui code is dirty at base, 
 and need to be heavily reworked (layouts, panels organisation, ...).
 
-Sufficient work for me.
+This work is enough for my usage.
+
+ NOTE : JAR file can be directly downloaded from target/ESPlorer.jar
 
 
 [![Build Actions Status](https://github.com/4refr0nt/ESPlorer/workflows/build/badge.svg)](https://github.com/4refr0nt/ESPlorer/actions) [![Join the chat at https://gitter.im/4refr0nt/ESPlorer](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/4refr0nt/ESPlorer?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
